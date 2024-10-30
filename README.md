@@ -10,13 +10,13 @@ My strengths include Front-End Development and User Interface Design. Currently,
 
 I am currently working on a website to showcase my portfolio, but in the meantime, I am sharing my projects here on GitHub.
 
-### Who's Niko?
+### Who's Niko? 🔑
 
-- Living in Finland, near Helsinki
-- Spends a lot of time with keyboard
-- Seeking for job
-- Spends freetime with retrogaming, fishing and outdoor activites
-- Contact can be made for nikon.niittymaki[a]gmail.com
+- 🌎 Living in Finland, near Helsinki
+- 💻 Spends a lot of time with keyboard
+- 🖖 Seeking for job
+- 🕹 Spends freetime with retrogaming consoles, fishing and outdoor activites
+- 📭 Contact can be made for nikon.niittymaki[a]gmail.com
 
 <!--
 **NNmaki/NNmaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
