@@ -22,6 +22,8 @@ I am currently working on a website to showcase my portfolio, but in the meantim
 
 ## Tech talk 💾
 
+Languages, tools and platforms which one I handle or which one I'm studying:
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java Script" alt="Java Script" width="50" height="50"/>&nbsp;
