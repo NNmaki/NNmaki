@@ -1,4 +1,4 @@
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&multiline=true&width=700&height=215&separator=%3E&lines=const+projectName+%3D+%22InspiringCode%22;%3Econst+projectDescription+%3D+%22Programming+inspiration%22;%3Efunction+startInspiration()+%7B%3E+++++let+ideas+%3D+%5B%5D;%3E+++++let+codeFlow+%3D+%22smooth+and+creative%22;%3E+++++for+(let+i+%3D+0;+i+%3C+5;+i%2B%2B)+%7B%3E+++++++++ideas.push(%60Idea+%24%7Bi+%2B+1%7D%3A+Something+new+in%60);%7D%3E+++++return+ideas;" alt="Typing SVG" /></a>
 
 ## Hi everyone 🖐
 
