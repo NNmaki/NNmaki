@@ -18,8 +18,8 @@ I am currently working on a website to showcase my portfolio, but in the meantim
 - 🕹 Spends freetime with retrogaming consoles, fishing and outdoor activites
 - 📭 Contact can be made for nikon.niittymaki[a]gmail.com
 
-  
-https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java Script" alt="Java Script" width="30" height="30"/>&nbsp;
+
 
 <!--
 **NNmaki/NNmaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
